@@ -1,0 +1,5 @@
+PyQt5
+pytest
+pytest-html
+pandas
+matplotlib
